@@ -90,6 +90,3 @@
         📓 If you prefer Jupyter Notebooks or want to add/fix content, check out the <a href="https://github.com/LEE-SEON-WOO/basics/tree/master/notebooks" target="_blank">notebooks</a> directory.
     </li>
 </ul>
-
-## Next Steps
-As you learn ML, it's important to work on projects, so check out <a href="https://LEE-SEON-WOO.com">Made With ML</a> for inspiration and to create a profile to showcase your own projects! **Showcase your projects** because everyone has Coursera, Kaggle, and fastai on their resumes so you need to differentiate yourself by showing what you can do using those fantastic resources.
