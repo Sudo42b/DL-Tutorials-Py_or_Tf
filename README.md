@@ -5,7 +5,7 @@
         <td colspan="1" rowspan="5" class="ai-notebooks-table-points ai-orange-link">
         <br>
         <div align="center">
-            <a class="ai-header-badge" target="_blank" href="https://github.com/LEE-SEON-WOO/basics">
+            <a class="ai-header-badge" target="_blank" href="https://github.com/LEE-SEON-WOO/DL-Tutorials-Py_or_Tf">
             <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/LEE-SEON-WOO/basics.svg?style=social&label=Star">
             </a>&nbsp;
             <a class="ai-header-badge" target="_blank" href="https://www.linkedin.com/in/%EC%84%A0%EC%9A%B0-%EC%9D%B4-95859b116/">
