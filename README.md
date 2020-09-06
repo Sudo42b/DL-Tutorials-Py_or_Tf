@@ -8,7 +8,7 @@
             <a class="ai-header-badge" target="_blank" href="https://github.com/LEE-SEON-WOO/basics">
             <img class="ai-header-badge-img" src="https://img.shields.io/github/stars/LEE-SEON-WOO/basics.svg?style=social&label=Star">
             </a>&nbsp;
-            <a class="ai-header-badge" target="_blank" href="https://www.linkedin.com/company/x21999">
+            <a class="ai-header-badge" target="_blank" href="https://www.linkedin.com/in/%EC%84%A0%EC%9A%B0-%EC%9D%B4-95859b116/">
             <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
             </a>&nbsp;
             <p>🔥Among the <a href="https://github.com/topics/deep-learning" target="_blank">top 10</a> ML repos on GitHub</p>
